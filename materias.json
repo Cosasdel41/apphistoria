@@ -1,0 +1,570 @@
+{
+  "materias": [
+    {
+      "id": 1,
+      "anio": "1ro",
+      "nombre": "Pedagogía",
+      "regimen": "Anual",
+      "formato": "Asignatura",
+      "prerrequisitos": {
+        "requiresCursada": [],
+        "requiresAcreditar": []
+      }
+    },
+    {
+      "id": 2,
+      "anio": "1ro",
+      "nombre": "Educación y transformaciones sociales contemporáneas",
+      "regimen": "Anual",
+      "formato": "Asignatura",
+      "prerrequisitos": {
+        "requiresCursada": [],
+        "requiresAcreditar": []
+      }
+    },
+    {
+      "id": 3,
+      "anio": "1ro",
+      "nombre": "Educación sexual integral",
+      "regimen": "Cuatrimestral",
+      "formato": "Taller",
+      "prerrequisitos": {
+        "requiresCursada": [],
+        "requiresAcreditar": []
+      }
+    },
+    {
+      "id": 4,
+      "anio": "1ro",
+      "nombre": "Cultura digital y educación",
+      "regimen": "Cuatrimestral",
+      "formato": "Taller",
+      "prerrequisitos": {
+        "requiresCursada": [],
+        "requiresAcreditar": []
+      }
+    },
+    {
+      "id": 5,
+      "anio": "1ro",
+      "nombre": "Historia del mundo antiguo",
+      "regimen": "Anual",
+      "formato": "Asignatura",
+      "prerrequisitos": {
+        "requiresCursada": [],
+        "requiresAcreditar": []
+      }
+    },
+    {
+      "id": 6,
+      "anio": "1ro",
+      "nombre": "Historia Americana I: del poblamiento a la invasión europea",
+      "regimen": "Anual",
+      "formato": "Asignatura",
+      "prerrequisitos": {
+        "requiresCursada": [],
+        "requiresAcreditar": []
+      }
+    },
+    {
+      "id": 7,
+      "anio": "1ro",
+      "nombre": "Antropología",
+      "regimen": "Anual",
+      "formato": "Asignatura",
+      "prerrequisitos": {
+        "requiresCursada": [],
+        "requiresAcreditar": []
+      }
+    },
+    {
+      "id": 8,
+      "anio": "1ro",
+      "nombre": "Introducción a las Ciencias Sociales y a la Historia",
+      "regimen": "Anual",
+      "formato": "Asignatura",
+      "prerrequisitos": {
+        "requiresCursada": [],
+        "requiresAcreditar": []
+      }
+    },
+    {
+      "id": 9,
+      "anio": "1ro",
+      "nombre": "Geografía",
+      "regimen": "Anual",
+      "formato": "Asignatura",
+      "prerrequisitos": {
+        "requiresCursada": [],
+        "requiresAcreditar": []
+      }
+    },
+    {
+      "id": 10,
+      "anio": "1ro",
+      "nombre": "Práctica Docente I",
+      "regimen": "Anual",
+      "formato": "Taller y Terreno",
+      "prerrequisitos": {
+        "requiresCursada": [
+          1
+        ],
+        "requiresAcreditar": []
+      }
+    },
+    {
+      "id": 11,
+      "anio": "2do",
+      "nombre": "Didáctica y curriculum",
+      "regimen": "Anual",
+      "formato": "Asignatura",
+      "prerrequisitos": {
+        "requiresCursada": [
+          1
+        ],
+        "requiresAcreditar": []
+      }
+    },
+    {
+      "id": 12,
+      "anio": "2do",
+      "nombre": "Psicología del aprendizaje",
+      "regimen": "Anual",
+      "formato": "Asignatura",
+      "prerrequisitos": {
+        "requiresCursada": [],
+        "requiresAcreditar": []
+      }
+    },
+    {
+      "id": 13,
+      "anio": "2do",
+      "nombre": "Análisis de las instituciones educativas",
+      "regimen": "Cuatrimestral",
+      "formato": "Asignatura",
+      "prerrequisitos": {
+        "requiresCursada": [],
+        "requiresAcreditar": []
+      }
+    },
+    {
+      "id": 14,
+      "anio": "2do",
+      "nombre": "Pensamiento político pedagógico latinoamericano",
+      "regimen": "Anual",
+      "formato": "Asignatura",
+      "prerrequisitos": {
+        "requiresCursada": [
+          1
+        ]
+          }
+        ],
+        "requiresAcreditar": []
+      }
+    },
+    {
+      "id": 15,
+      "anio": "2do",
+      "nombre": "Didáctica de las Ciencias Sociales",
+      "regimen": "Anual",
+      "formato": "Asignatura",
+      "prerrequisitos": {
+        "requiresCursada": [
+          8
+        ],
+        "requiresAcreditar": []
+      }
+    },
+    {
+      "id": 16,
+      "anio": "2do",
+      "nombre": "Historia Americana II: de la invasión europea hasta la crisis del orden colonial",
+      "regimen": "Anual",
+      "formato": "Asignatura",
+      "prerrequisitos": {
+        "requiresCursada": [],
+        "requiresAcreditar": []
+      }
+    },
+    {
+      "id": 17,
+      "anio": "2do",
+      "nombre": "Sociología",
+      "regimen": "Anual",
+      "formato": "Asignatura",
+      "prerrequisitos": {
+        "requiresCursada": [],
+        "requiresAcreditar": []
+      }
+    },
+    {
+      "id": 18,
+      "anio": "2do",
+      "nombre": "Economía Política",
+      "regimen": "Cuatrimestral",
+      "formato": "Taller",
+      "prerrequisitos": {
+        "requiresCursada": [],
+        "requiresAcreditar": []
+      }
+    },
+    {
+      "id": 19,
+      "anio": "2do",
+      "nombre": "Historia del Mundo Medieval",
+      "regimen": "Cuatrimestral",
+      "formato": "Asignatura",
+      "prerrequisitos": {
+        "requiresCursada": []
+        "requiresAcreditar": []
+      }
+    },
+    {
+      "id": 20,
+      "anio": "2do",
+      "nombre": "Problemas de Asia y África I",
+      "regimen": "Cuatrimestral",
+      "formato": "Asignatura",
+      "prerrequisitos": {
+        "requiresCursada": [],
+        "requiresAcreditar": []
+      }
+    },
+    {
+      "id": 21,
+      "anio": "2do",
+      "nombre": "Historia del Mundo Moderno",
+      "regimen": "Cuatrimestral",
+      "formato": "Asignatura",
+      "prerrequisitos": {
+        "requiresCursada": []
+        "requiresAcreditar": []
+      }
+    },
+    {
+      "id": 22,
+      "anio": "2do",
+      "nombre": "Práctica Docente II",
+      "regimen": "Anual",
+      "formato": "Taller y Terreno",
+      "prerrequisitos": {
+        "requiresCursada": [],
+        "requiresAcreditar": [
+          2,
+          8,
+          10
+        ]
+      }
+    },
+    {
+      "id": 23,
+      "anio": "3ro",
+      "nombre": "Política educativa argentina",
+      "regimen": "Anual",
+      "formato": "Asignatura",
+      "prerrequisitos": {
+        "requiresCursada": [
+          14
+        ],
+        "requiresAcreditar": []
+      }
+    },
+    {
+      "id": 24,
+      "anio": "3ro",
+      "nombre": "Problemas filosóficos de la educación",
+      "regimen": "Anual",
+      "formato": "Asignatura",
+      "prerrequisitos": {
+        "requiresCursada": []
+          }
+        ],
+        "requiresAcreditar": []
+      }
+    },
+    {
+      "id": 25,
+      "anio": "3ro",
+      "nombre": "Trayectorias educativas de jóvenes y adultos",
+      "regimen": "Cuatrimestral",
+      "formato": "Asignatura",
+      "prerrequisitos": {
+        "requiresCursada": [
+          3,
+          4
+        ],
+        "requiresAcreditar": []
+      }
+    },
+    {
+      "id": 26,
+      "anio": "3ro",
+      "nombre": "Didáctica de la Historia",
+      "regimen": "Anual",
+      "formato": "Asignatura",
+      "prerrequisitos": {
+        "requiresCursada": [
+          15
+        ],
+        "requiresAcreditar": []
+      }
+    },
+    {
+      "id": 27,
+      "anio": "3ro",
+      "nombre": "Historia del Mundo Contemporáneo",
+      "regimen": "Anual",
+      "formato": "Asignatura",
+      "prerrequisitos": {
+        "requiresCursada": []
+        "requiresAcreditar": []
+      }
+    },
+    {
+      "id": 28,
+      "anio": "3ro",
+      "nombre": "Historia Argentina I",
+      "regimen": "Anual",
+      "formato": "Asignatura",
+      "prerrequisitos": {
+        "requiresCursada": []
+        "requiresAcreditar": []
+      }
+    },
+    {
+      "id": 29,
+      "anio": "3ro",
+      "nombre": "Teoría e Historia de la Historiografía",
+      "regimen": "Anual",
+      "formato": "Asignatura",
+      "prerrequisitos": {
+        "requiresCursada": [
+          8
+        ],
+        "requiresAcreditar": []
+      }
+    },
+    {
+      "id": 30,
+      "anio": "3ro",
+      "nombre": "Problemas de Asia y África II",
+      "regimen": "Cuatrimestral",
+      "formato": "Asignatura",
+      "prerrequisitos": {
+        "requiresCursada": []
+        "requiresAcreditar": []
+      }
+    },
+    {
+      "id": 31,
+      "anio": "3ro",
+      "nombre": "Historia Latinoamericana I: de la crisis del orden colonial a la formación de los Estados nacionales",
+      "regimen": "Cuatrimestral",
+      "formato": "Asignatura",
+      "prerrequisitos": {
+        "requiresCursada": []
+          }
+        ],
+        "requiresAcreditar": []
+      }
+    },
+    {
+      "id": 32,
+      "anio": "3ro",
+      "nombre": "Práctica Docente III",
+      "regimen": "Anual",
+      "formato": "Taller y Terreno",
+      "prerrequisitos": {
+        "requiresCursada": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ],
+        "requiresAcreditar": [
+          11,
+          15,
+          22
+        ]
+      }
+    },
+    {
+      "id": 33,
+      "anio": "4to",
+      "nombre": "Reflexión filosófico-política de la práctica docente",
+      "regimen": "Anual",
+      "formato": "Asignatura",
+      "prerrequisitos": {
+        "requiresCursada": [
+          24
+        ],
+        "requiresAcreditar": [
+          32
+        ]
+      }
+    },
+    {
+      "id": 34,
+      "anio": "4to",
+      "nombre": "Derechos, interculturalidad y ciudadanía",
+      "regimen": "Cuatrimestral",
+      "formato": "Seminario",
+      "prerrequisitos": {
+        "requiresCursada": [
+          2
+        ],
+        "requiresAcreditar": []
+      }
+    },
+    {
+      "id": 35,
+      "anio": "4to",
+      "nombre": "Espacio de Opción Institucional",
+      "regimen": "Cuatrimestral",
+      "formato": "Taller",
+      "prerrequisitos": {
+        "requiresCursada": [],
+        "requiresAcreditar": []
+      }
+    },
+    {
+      "id": 36,
+      "anio": "4to",
+      "nombre": "La Enseñanza de la Historia en la Escuela Secundaria",
+      "regimen": "Anual",
+      "formato": "Ateneo",
+      "prerrequisitos": {
+        "requiresCursada": [
+          26
+        ],
+        "requiresAcreditar": [
+          32
+        ]
+      }
+    },
+    {
+      "id": 37,
+      "anio": "4to",
+      "nombre": "Problemas del Mundo Actual",
+      "regimen": "Anual",
+      "formato": "Asignatura",
+      "prerrequisitos": {
+        "requiresCursada": []
+        "requiresAcreditar": []
+      }
+    },
+    {
+      "id": 38,
+      "anio": "4to",
+      "nombre": "Historia Latinoamericana II: de la conformación de los Estados nacionales a la actualidad",
+      "regimen": "Anual",
+      "formato": "Asignatura",
+      "prerrequisitos": {
+        "requiresCursada": [],
+        "requiresAcreditar": []
+      }
+    },
+    {
+      "id": 39,
+      "anio": "4to",
+      "nombre": "Investigación Sobre los Problemas de la Historia Argentina Reciente",
+      "regimen": "Anual",
+      "formato": "Taller",
+      "prerrequisitos": {
+        "requiresCursada": [
+          29
+        ],
+        "requiresAcreditar": []
+      }
+    },
+    {
+      "id": 40,
+      "anio": "4to",
+      "nombre": "Historia Argentina II",
+      "regimen": "Anual",
+      "formato": "Asignatura",
+      "prerrequisitos": {
+        "requiresCursada": [],
+        "requiresAcreditar": []
+      }
+    },
+    {
+      "id": 41,
+      "anio": "4to",
+      "nombre": "Espacio de Opción Institucional",
+      "regimen": "Cuatrimestral",
+      "formato": "Taller",
+      "prerrequisitos": {
+        "requiresCursada": [],
+        "requiresAcreditar": []
+      }
+    },
+    {
+      "id": 42,
+      "anio": "4to",
+      "nombre": "Práctica Docente IV",
+      "regimen": "Anual",
+      "formato": "Taller y Terreno",
+      "prerrequisitos": {
+        "requiresCursada": [
+          11,
+          12,
+          13,
+          14,
+          15,
+          16.
+          17.
+          18,
+          19,
+          20,
+          21,
+          22,
+          29
+        ],
+        "requiresAcreditar": [
+          25,
+          26,
+          32
+        ]
+      }
+    },
+ {
+      "id": 43,
+      "anio": "4to",
+      "nombre": "UNIDAD CURRICULAR OPTATIVA",
+      "regimen": "Anual",
+      "formato": "Taller",
+      "prerrequisitos": {
+        "requiresCursada": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22
+        ],
+        "requiresAcreditar": []
+      }
+    }
